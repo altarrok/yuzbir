@@ -1,0 +1,10 @@
+{
+  "name": "yuzbir",
+  "version": "0.0.1",
+  "description": "101",
+  "main": "index.ts",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.8.3"
+  }
+}
